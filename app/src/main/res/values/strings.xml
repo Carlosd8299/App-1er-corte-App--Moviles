@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="h">H+</string>
+    <string name="hospitales_publicos_de_barranquilla">Hospitales Publicos de Barranquilla</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="algo">ALGO</string>
+    <string name="location">location</string>
+</resources>
